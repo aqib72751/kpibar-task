@@ -1,24 +1,31 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Button from 'react-bootstrap/Button'
+import 'bootstrap/dist/css/bootstrap.min.css'
+import Sidebar from './Components/Sidebar.js'
+import Header from './Components/Header.js'
+import Progress from './Components/Progress.js'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <div className="appSidebar">
+        <Sidebar />
+      </div>
+      <div className="appHome">
+        <Header />
+        <div className="appContent">
+          <Progress />
+          <div className="appBottom ">
+            <div className="appTeam">
+              Team
+            </div>
+            <div className="appTask">
+              Task
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

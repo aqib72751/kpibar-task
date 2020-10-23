@@ -1,0 +1,335 @@
+{
+"activities": [
+    {
+        "creator": {
+            "id": "user_123123",
+            "img": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "name": "Olivia Burns",
+            "link": "https://kpibar.com/domain/user/user_123123",
+            "type": "user",
+            "nick": "@oliviaburns"
+        },
+        "title": "Added 3,9 comments",
+        "source": {
+            "text": "Improve desktop performance",
+            "type": "kpibar",
+            "id": "task_yytt23",
+            "link": "https://kpibar.com/domain/task_yytt23"
+        },
+        "date_text": "40 min ago",
+        "type": "comment",
+        "sub_type": "parent",
+        "id": "activity_523f3452",
+        "child_activities": [
+            {
+                "creator": {
+                    "id": "user_123123",
+                    "img": {
+                        "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                        "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+                    },
+                    "name": "Olivia Burns",
+                    "link": "https://kpibar.com/domain/user/user_123123",
+                    "type": "user",
+                    "nick": "@oliviaburns"
+                },
+                "title": "Updated script",
+                "source": {
+                    "text": "Improve desktop performance",
+                    "domain": "kpibar",
+                    "type": "task",
+                    "id": "task_yytt23",
+                    "link": "https://kpibar.com/domain/task_yytt23?child=activity_ag23f34h3e552"
+                },
+                "date_text": "38 min ago",
+                "type": "comment",
+                "sub_type": "child",
+                "id": "activity_ag23f34h3e552"
+            },
+
+            {
+                "creator": {
+                    "id": "user_123123",
+                    "img": {
+                        "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                        "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+                    },
+                    "name": "Olivia Burns",
+                    "link": "https://kpibar.com/domain/user/user_123123",
+                    "type": "user",
+                    "nick": "@oliviaburns"
+                },
+                "title": "Added documentation to the method",
+                "source": {
+                    "text": "Improve desktop performance",
+                    "domain": "kpibar",
+                    "type": "task",
+                    "id": "task_yytt23",
+                    "link": "https://kpibar.com/domain/task_yytt23?child=activity_1g23f34h3e552"
+                },
+                "date_text": "26 min ago",
+                "type": "comment",
+                "sub_type": "child",
+                "id": "activity_1g23f34h3e552"
+            },
+            {
+                "creator": {
+                    "id": "user_123123",
+                    "img": {
+                        "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                        "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+                    },
+                    "name": "Olivia Burns",
+                    "link": "https://kpibar.com/domain/user/user_123123",
+                    "type": "user",
+                    "nick": "@oliviaburns"
+                },
+                "title": "Improved count method",
+                "source": {
+                    "text": "Improve desktop performance",
+                    "domain": "kpibar",
+                    "type": "task",
+                    "id": "task_yytt23",
+                    "link": "https://kpibar.com/domain/task_yytt23?child=activity_2g2124fe552"
+                },
+                "date_text": "26 min ago",
+                "type": "comment",
+                "sub_type": "child",
+                "id": "activity_2g2124fe552"
+            }
+        ]
+    },
+    {
+        "creator": {
+            "id": "user_123123",
+            "img": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "name": "Olivia Burns",
+            "link": "https://kpibar.com/domain/user/user_123123",
+            "type": "user",
+            "nick": "@oliviaburns"
+        },
+        "title": "added the cli label 4 days ago",
+        "source": {
+            "text": "Improve desktop performance",
+            "type": "kpibar",
+            "id": "task_yytt23",
+            "link": "https://kpibar.com/domain/task_yytt23"
+        },
+        "date_text": "57 min ago",
+        "type": "comment",
+        "sub_type": "parent",
+        "id": "activity_aaaf3452"
+    },
+    {
+        "creator": {
+            "id": "user_4444",
+            "img": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "name": "Ben Harper", 
+            "link": "https://kpibar.com/domain/user/user_4444",
+            "type": "user",
+            "nick": "@benharper"
+        },
+        "title": "Added a comment",
+        "text": "I'd be happy to submit a PR for this, if this fits within existing plans. @oliviaburns",
+        "source": {
+            "text": "Improve desktop performance",
+            "type": "kpibar",
+            "id": "task_yytt23",
+            "link": "https://kpibar.com/domain/task_yytt23"
+        },
+        "date_text": "1 hour ago",
+        "type": "comment",
+        "id": "activity_bbbf3452"
+    },
+    {
+        "creator": {
+            "id": "user_4444",
+            "img": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "name": "Ben Harper",
+            "link": "https://kpibar.com/domain/user/user_4444",
+            "type": "user",
+            "nick": "@benharper"
+        },
+        "title": "Changed the title",
+        "text": "'Improve desktop' to 'Improve desktop performance'",
+        "source": {
+            "text": "Improve desktop performance",
+            "type": "kpibar",
+            "id": "task_yytt23",
+            "link": "https://kpibar.com/domain/task_yytt23"
+        },
+        "date_text": "4 hours ago",
+        "type": "edit",
+        "id": "activity_bwef333"
+    },
+    {
+        "creator": {
+            "id": "user_4444",
+            "img": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "name": "Ben Harper",
+            "link": "https://kpibar.com/domain/user/user_4444",
+            "type": "user",
+            "nick": "@benharper"
+        },
+        "title": "Changed the title",
+        "text": "'Improve desktop' to 'Improve desktop performance'",
+        "source": {
+            "text": "Improve desktop performance",
+            "type": "kpibar",
+            "id": "task_yytt23",
+            "link": "https://kpibar.com/domain/task_yytt23"
+        },
+        "date_text": "4 hours ago",
+        "type": "edit",
+        "id": "activity_bwef333"
+    },
+    {
+        "creator": {
+            "id": "user_4444",
+            "img": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "name": "Ben Harper",
+            "link": "https://kpibar.com/domain/user/user_4444",
+            "type": "user",
+            "nick": "@benharper"
+        },
+        "title": "Changed the title",
+        "text": "'Improve desktop' to 'Improve desktop performance'",
+        "source": {
+            "text": "Improve desktop performance",
+            "type": "kpibar",
+            "id": "task_yytt23",
+            "link": "https://kpibar.com/domain/task_yytt23"
+        },
+        "date_text": "4 hours ago",
+        "type": "edit",
+        "id": "activity_bwef333"
+    },
+    {
+        "creator": {
+            "id": "user_4444",
+            "img": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "name": "Ben Harper",
+            "link": "https://kpibar.com/domain/user/user_4444",
+            "type": "user",
+            "nick": "@benharper"
+        },
+        "title": "Changed the title",
+        "text": "'Improve desktop' to 'Improve desktop performance'",
+        "source": {
+            "text": "Improve desktop performance",
+            "type": "kpibar",
+            "id": "task_yytt23",
+            "link": "https://kpibar.com/domain/task_yytt23"
+        },
+        "date_text": "4 hours ago",
+        "type": "edit",
+        "id": "activity_bwef333"
+    },
+    {
+        "creator": {
+            "id": "user_4444",
+            "img": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "name": "Ben Harper",
+            "link": "https://kpibar.com/domain/user/user_4444",
+            "type": "user",
+            "nick": "@benharper"
+        },
+        "title": "Changed the title",
+        "text": "'Improve desktop' to 'Improve desktop performance'",
+        "source": {
+            "text": "Improve desktop performance",
+            "type": "kpibar",
+            "id": "task_yytt23",
+            "link": "https://kpibar.com/domain/task_yytt23"
+        },
+        "date_text": "4 hours ago",
+        "type": "edit",
+        "id": "activity_bwef333"
+    },
+    {
+        "creator": {
+            "id": "user_4444",
+            "img": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "name": "Ben Harper",
+            "link": "https://kpibar.com/domain/user/user_4444",
+            "type": "user",
+            "nick": "@benharper"
+        },
+        "title": "Changed the title",
+        "text": "'Improve desktop' to 'Improve desktop performance'",
+        "source": {
+            "text": "Improve desktop performance",
+            "type": "kpibar",
+            "id": "task_yytt23",
+            "link": "https://kpibar.com/domain/task_yytt23"
+        },
+        "date_text": "4 hours ago",
+        "type": "edit",
+        "id": "activity_bwef333"
+    },
+    {
+        "creator": {
+            "id": "user_4444",
+            "img": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "name": "Ben Harper",
+            "link": "https://kpibar.com/domain/user/user_4444",
+            "type": "user",
+            "nick": "@benharper"
+        },
+        "title": "Changed the title",
+        "text": "'Improve desktop' to 'Improve desktop performance'",
+        "source": {
+            "text": "Improve desktop performance",
+            "type": "kpibar",
+            "id": "task_yytt23",
+            "link": "https://kpibar.com/domain/task_yytt23"
+        },
+        "date_text": "4 hours ago",
+        "type": "edit",
+        "id": "activity_bwef333"
+    }
+]}
+
